@@ -1,1 +1,1 @@
-[![](https://www.tobiasmichael.de/assets/logo.png)](https://www.tobiasmichael.de)
+[<img src="https://www.tobiasmichael.de/assets/logo.png" width="300" height="300" />](https://www.tobiasmichael.de)
