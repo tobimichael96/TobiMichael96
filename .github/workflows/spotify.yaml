@@ -11,3 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: TobiMichael96/spotify-top-tracks@main
+        with:
+          CLIENT_ID: ${{ secret.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secret.CLIENT_SECRET }}
+          REFRESH_TOKEN: ${{ secret.REFRESH_TOKEN }}
