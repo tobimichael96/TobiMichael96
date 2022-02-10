@@ -2,7 +2,7 @@
 name: Spotify
 
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: 0 */4 * * *}] 
   workflow_dispatch:
   push:
     paths-ignore:
