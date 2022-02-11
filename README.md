@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Schmyt - Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW)|[Schmyt - 100 Euro](https://open.spotify.com/track/6t51rZJWIAi6vQGX2ceEvJ)|[Schmyt - Niemand](https://open.spotify.com/track/0JS8LbZfxbV6gVS4o8Oitl)
+[Schmyt - Liebe verloren](https://open.spotify.com/track/5gMifIJnth5mZIBvzqPVIW)|[Schmyt - Gift](https://open.spotify.com/track/3cOK7STaGJNeQseiu1ogKn)|[Schmyt - 100 Euro](https://open.spotify.com/track/6t51rZJWIAi6vQGX2ceEvJ)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0205f0b72e348e5fe0cfb307e5"/>|<img src="https://i.scdn.co/image/ab67616d00001e0216b618842af5f5695782b37e"/>|<img src="https://i.scdn.co/image/ab67616d00001e0216b618842af5f5695782b37e"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0205f0b72e348e5fe0cfb307e5"/>|<img src="https://i.scdn.co/image/ab67616d00001e020740cbbda75f75245a75003c"/>|<img src="https://i.scdn.co/image/ab67616d00001e0216b618842af5f5695782b37e"/>
