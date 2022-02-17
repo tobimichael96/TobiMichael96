@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.tobiasmichael.de">
-    <img src="https://www.tobiasmichael.de/assets/logo.png" width="100" height="100"/>
+    <img src="https://tm-website-static.s3.eu-central-1.amazonaws.com/logo.png" width="100" height="100"/>
   </a>
 </p>
 
