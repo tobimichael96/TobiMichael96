@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Alligatoah - Nachbeben](https://open.spotify.com/track/11sK6e6vCnbIznpH3NfIFA)|[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)|[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)
+[Alligatoah - Nachbeben](https://open.spotify.com/track/11sK6e6vCnbIznpH3NfIFA)|[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)|[Tayc - P A S C O M M E Ç A](https://open.spotify.com/track/2t5YWn2kJJqJDOihrvxXiq)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e025093acd5057e8b4f4f480475"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>|<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>
+<img src="https://i.scdn.co/image/ab67616d00001e025093acd5057e8b4f4f480475"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>|<img src="https://i.scdn.co/image/ab67616d00001e0291453ba012165b741a8342f6"/>
