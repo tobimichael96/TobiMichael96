@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Schmyt - Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh)|[Schmyt - Alles anders (weniger im Arsch)](https://open.spotify.com/track/1H2rGO5zzjRTfFIgD7wNRj)|[Schmyt - Universum regelt](https://open.spotify.com/track/0oFlUUf7zFcTkFJVkxgqh9)
+[Schmyt - Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh)|[Schmyt - Alles anders (weniger im Arsch)](https://open.spotify.com/track/1H2rGO5zzjRTfFIgD7wNRj)|[Schmyt - Jenny](https://open.spotify.com/track/15LSSPmxqqfmP7WJl6gba1)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e020602b509c9fe24bf70509570"/>|<img src="https://i.scdn.co/image/ab67616d00001e025dc976f81f9393cfbc3bfa4c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c6fc3a53b995207d99701137"/>
+<img src="https://i.scdn.co/image/ab67616d00001e020602b509c9fe24bf70509570"/>|<img src="https://i.scdn.co/image/ab67616d00001e025dc976f81f9393cfbc3bfa4c"/>|<img src="https://i.scdn.co/image/ab67616d00001e0216b618842af5f5695782b37e"/>
