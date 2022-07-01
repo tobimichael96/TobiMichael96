@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)|[Schmyt - Liebe verloren](https://open.spotify.com/track/4IcmRV1tKUJNtkidXQexPl)|[Alligatoah - Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K)
+[Schmyt - Liebe verloren](https://open.spotify.com/track/4IcmRV1tKUJNtkidXQexPl)|[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)|[Schmyt - Ich wünschte, du wärst verloren](https://open.spotify.com/track/5HelvHUpgmjB6i91wp0syw)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c118854626e22e4b56141b82"/>|<img src="https://i.scdn.co/image/ab67616d00001e029f0a53f4473f69640bfffa92"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02c118854626e22e4b56141b82"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c118854626e22e4b56141b82"/>
