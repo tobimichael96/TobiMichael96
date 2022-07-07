@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Schmyt - Medusa](https://open.spotify.com/track/5waLb4kaWvDtbUVq2IJjMy)|[James Blake - Coming Back (feat. SZA)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ)|[James Blake - Where's The Catch? (feat. André 3000)](https://open.spotify.com/track/3zuPiPjLdL9aDnyUZcgONy)
+[James Blake - If I'm Insecure](https://open.spotify.com/track/5LtU7fxA96fD0xEqrrUCiz)|[Schmyt - Medusa](https://open.spotify.com/track/5waLb4kaWvDtbUVq2IJjMy)|[James Blake - Coming Back (feat. SZA)](https://open.spotify.com/track/2pSsHnjAgEPjHmet7ChlHQ)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02c118854626e22e4b56141b82"/>|<img src="https://i.scdn.co/image/ab67616d00001e0238d030048ec770b15633dbc1"/>|<img src="https://i.scdn.co/image/ab67616d00001e02534dc6aebb7cf3c04e410cc6"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0238d030048ec770b15633dbc1"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c118854626e22e4b56141b82"/>|<img src="https://i.scdn.co/image/ab67616d00001e0238d030048ec770b15633dbc1"/>
