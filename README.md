@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)|[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)|[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)
+[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)|[Alligatoah - Nachbeben](https://open.spotify.com/track/11sK6e6vCnbIznpH3NfIFA)|[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>
+<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>|<img src="https://i.scdn.co/image/ab67616d00001e025093acd5057e8b4f4f480475"/>|<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>
