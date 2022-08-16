@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)|[Alligatoah - Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K)|[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)
+[Alligatoah - Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K)|[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)|[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>|<img src="https://i.scdn.co/image/ab67616d00001e029f0a53f4473f69640bfffa92"/>|<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>
+<img src="https://i.scdn.co/image/ab67616d00001e029f0a53f4473f69640bfffa92"/>|<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>
