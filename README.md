@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Alligatoah - Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K)|[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)|[Alligatoah - Nachbeben](https://open.spotify.com/track/11sK6e6vCnbIznpH3NfIFA)
+[Alligatoah - Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K)|[MAJAN - Highway](https://open.spotify.com/track/5RB4USJPDagDJpo4UdqJnY)|[Mehnersmoos - Hey John](https://open.spotify.com/track/3yn9PEZHXqSh188kQ4vaMQ)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e029f0a53f4473f69640bfffa92"/>|<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>|<img src="https://i.scdn.co/image/ab67616d00001e025093acd5057e8b4f4f480475"/>
+<img src="https://i.scdn.co/image/ab67616d00001e029f0a53f4473f69640bfffa92"/>|<img src="https://i.scdn.co/image/ab67616d00001e020b5834b0a704ad8de59121ef"/>|<img src="https://i.scdn.co/image/ab67616d00001e0254489cced97719368a4871c6"/>
