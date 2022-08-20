@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[MAJAN - Highway](https://open.spotify.com/track/5RB4USJPDagDJpo4UdqJnY)|[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)|[Alligatoah - Fuck Rock n Roll](https://open.spotify.com/track/6QPSEohjcSqmbuICUkhD0K)
+[MAJAN - Highway](https://open.spotify.com/track/5RB4USJPDagDJpo4UdqJnY)|[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)|[RIN - Meer](https://open.spotify.com/track/6n4doD1HuYzu2qzwY4sA5l)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e020b5834b0a704ad8de59121ef"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>|<img src="https://i.scdn.co/image/ab67616d00001e029f0a53f4473f69640bfffa92"/>
+<img src="https://i.scdn.co/image/ab67616d00001e020b5834b0a704ad8de59121ef"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db70e8a5bc2b6ef6614dea5"/>
