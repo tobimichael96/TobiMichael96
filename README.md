@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)|[MAJAN - Highway](https://open.spotify.com/track/5RB4USJPDagDJpo4UdqJnY)|[Lance Butters - Nein](https://open.spotify.com/track/0E3Yf1eqb8OkxKG6L1fpk8)
+[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)|[Lance Butters - Nein](https://open.spotify.com/track/0E3Yf1eqb8OkxKG6L1fpk8)|[Booka Shade - Blaze - Extended](https://open.spotify.com/track/58iabqF6o0s28v262ycuUn)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>|<img src="https://i.scdn.co/image/ab67616d00001e020b5834b0a704ad8de59121ef"/>|<img src="https://i.scdn.co/image/ab67616d00001e02628a787a4e71bf510c3f2dd0"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>|<img src="https://i.scdn.co/image/ab67616d00001e02628a787a4e71bf510c3f2dd0"/>|<img src="https://i.scdn.co/image/ab67616d00001e024a6aee228eea87ca5694f5ee"/>
