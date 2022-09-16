@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Booka Shade - Blaze - Extended](https://open.spotify.com/track/58iabqF6o0s28v262ycuUn)|[Ásgeir - Like I Am](https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4)|[Nina Chuba - Femminello](https://open.spotify.com/track/2OtxLwlSCxWQQ03h4jZyPP)
+[Booka Shade - Blaze - Extended](https://open.spotify.com/track/58iabqF6o0s28v262ycuUn)|[Ásgeir - Like I Am](https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4)|[Lance Butters - Nein](https://open.spotify.com/track/0E3Yf1eqb8OkxKG6L1fpk8)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e024a6aee228eea87ca5694f5ee"/>|<img src="https://i.scdn.co/image/ab67616d00001e02651f9f61001cce3ac645c155"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bfb66877e7f8cc4c98de05e3"/>
+<img src="https://i.scdn.co/image/ab67616d00001e024a6aee228eea87ca5694f5ee"/>|<img src="https://i.scdn.co/image/ab67616d00001e02651f9f61001cce3ac645c155"/>|<img src="https://i.scdn.co/image/ab67616d00001e02628a787a4e71bf510c3f2dd0"/>
