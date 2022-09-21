@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Ásgeir - Like I Am](https://open.spotify.com/track/3iwX6PquPlEniQLgOu06Cs)|[Ásgeir - Like I Am](https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4)|[Booka Shade - Blaze - Extended](https://open.spotify.com/track/58iabqF6o0s28v262ycuUn)
+[Ásgeir - Like I Am](https://open.spotify.com/track/3iwX6PquPlEniQLgOu06Cs)|[01099 - Frisch](https://open.spotify.com/track/7toCqux0Ln42OttYYyds4k)|[Ásgeir - Like I Am](https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02459ce67fbc7a1e9cae3ae46a"/>|<img src="https://i.scdn.co/image/ab67616d00001e02651f9f61001cce3ac645c155"/>|<img src="https://i.scdn.co/image/ab67616d00001e024a6aee228eea87ca5694f5ee"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02459ce67fbc7a1e9cae3ae46a"/>|<img src="https://i.scdn.co/image/ab67616d00001e024751acc9acbe99097af6f357"/>|<img src="https://i.scdn.co/image/ab67616d00001e02651f9f61001cce3ac645c155"/>
