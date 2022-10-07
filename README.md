@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Ásgeir - Like I Am](https://open.spotify.com/track/3iwX6PquPlEniQLgOu06Cs)|[Ásgeir - Like I Am](https://open.spotify.com/track/0YNd8YWn8oWXAzCRndzMS4)|[Ásgeir - Limitless](https://open.spotify.com/track/368U9XharnR5tpkTlzY9GM)
+[Ásgeir - Like I Am](https://open.spotify.com/track/3iwX6PquPlEniQLgOu06Cs)|[Ásgeir - Limitless](https://open.spotify.com/track/368U9XharnR5tpkTlzY9GM)|[Ásgeir - Snowblind](https://open.spotify.com/track/73yRtLNUcAlrBBfIaFL6zu)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02459ce67fbc7a1e9cae3ae46a"/>|<img src="https://i.scdn.co/image/ab67616d00001e02651f9f61001cce3ac645c155"/>|<img src="https://i.scdn.co/image/ab67616d00001e023d4e355a97f04ea9ada49e54"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02459ce67fbc7a1e9cae3ae46a"/>|<img src="https://i.scdn.co/image/ab67616d00001e023d4e355a97f04ea9ada49e54"/>|<img src="https://i.scdn.co/image/ab67616d00001e02383a478b8dcb68178742c8f1"/>
