@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Ásgeir - Like I Am](https://open.spotify.com/track/3iwX6PquPlEniQLgOu06Cs)|[01099 - Frisch](https://open.spotify.com/track/7toCqux0Ln42OttYYyds4k)|[Ásgeir - Limitless](https://open.spotify.com/track/368U9XharnR5tpkTlzY9GM)
+[01099 - Frisch](https://open.spotify.com/track/7toCqux0Ln42OttYYyds4k)|[Ásgeir - Like I Am](https://open.spotify.com/track/3iwX6PquPlEniQLgOu06Cs)|[Ásgeir - Limitless](https://open.spotify.com/track/368U9XharnR5tpkTlzY9GM)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02459ce67fbc7a1e9cae3ae46a"/>|<img src="https://i.scdn.co/image/ab67616d00001e024751acc9acbe99097af6f357"/>|<img src="https://i.scdn.co/image/ab67616d00001e023d4e355a97f04ea9ada49e54"/>
+<img src="https://i.scdn.co/image/ab67616d00001e024751acc9acbe99097af6f357"/>|<img src="https://i.scdn.co/image/ab67616d00001e02459ce67fbc7a1e9cae3ae46a"/>|<img src="https://i.scdn.co/image/ab67616d00001e023d4e355a97f04ea9ada49e54"/>
