@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[01099 - Frisch](https://open.spotify.com/track/7toCqux0Ln42OttYYyds4k)|[01099 - Skandalös](https://open.spotify.com/track/6tNM8cPyD4epzfUNCcuYp5)|[Nina Chuba - Ich hass dich](https://open.spotify.com/track/5CGPOGyyF3XvyQwyqlJH0P)
+[01099 - Frisch](https://open.spotify.com/track/7toCqux0Ln42OttYYyds4k)|[Oliver Schories - Caprice](https://open.spotify.com/track/6UJTyXQvDe3hv8NQXOKOCl)|[Oliver Schories - Trife](https://open.spotify.com/track/7bJIb0bPGNHq1RqO2ofA8v)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e024751acc9acbe99097af6f357"/>|<img src="https://i.scdn.co/image/ab67616d00001e027dc4478e32de3b70e7a4d12c"/>|<img src="https://i.scdn.co/image/ab67616d00001e025916d44b56d4cf4930287f9d"/>
+<img src="https://i.scdn.co/image/ab67616d00001e024751acc9acbe99097af6f357"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e7efbd6c438c70b0cd1c6c47"/>|<img src="https://i.scdn.co/image/ab67616d00001e0289fb3872ad90c74519d2c2dc"/>
