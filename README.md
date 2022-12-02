@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Taylor Swift - Anti-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu)|[NoNameLeft - Exaltation - Original Mix](https://open.spotify.com/track/1whke38Kf89pNmGlVe6LTE)|[Cristoph - Sleepless Nights](https://open.spotify.com/track/7hVkwBCfwGJ442dBh1G5Dv)
+[Taylor Swift - Anti-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu)|[Cristoph - Sleepless Nights](https://open.spotify.com/track/7hVkwBCfwGJ442dBh1G5Dv)|[NoNameLeft - Exaltation - Original Mix](https://open.spotify.com/track/1whke38Kf89pNmGlVe6LTE)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5"/>|<img src="https://i.scdn.co/image/ab67616d00001e0288e89c3e83172050b2eae7f1"/>|<img src="https://i.scdn.co/image/ab67616d00001e02967779a7bdc521ad6a2334da"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5"/>|<img src="https://i.scdn.co/image/ab67616d00001e02967779a7bdc521ad6a2334da"/>|<img src="https://i.scdn.co/image/ab67616d00001e0288e89c3e83172050b2eae7f1"/>
