@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Innellea - Transhumanism - Transhumanism Project (3/3)](https://open.spotify.com/track/1Bc1YCkgdW1AJ2GchM7g2C)|[Taylor Swift - Maroon](https://open.spotify.com/track/199E1RRrVmVTQqBXih5qRC)|[Helsloot - Let's Pretend - Extended Mix](https://open.spotify.com/track/0iVXr8eeiptow8tfqqv9uM)
+[Innellea - Transhumanism - Transhumanism Project (3/3)](https://open.spotify.com/track/1Bc1YCkgdW1AJ2GchM7g2C)|[Helsloot - Let's Pretend - Extended Mix](https://open.spotify.com/track/0iVXr8eeiptow8tfqqv9uM)|[Vakabular - Boogie - Original Mix](https://open.spotify.com/track/0HBaWjePsYWRt60ozz6MUv)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02e10b4de381f261ef2fb4372b"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e0b60c608586d88252b8fbc0"/>|<img src="https://i.scdn.co/image/ab67616d00001e027cd302b033664c0e925d690d"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02e10b4de381f261ef2fb4372b"/>|<img src="https://i.scdn.co/image/ab67616d00001e027cd302b033664c0e925d690d"/>|<img src="https://i.scdn.co/image/ab67616d00001e02197864581d8b774d7c8cd423"/>
