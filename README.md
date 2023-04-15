@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Nickelback - How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf)|[Oasis - Don't Look Back In Anger](https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT)|[Simple Plan - Summer Paradise (feat. Sean Paul) - Single Version](https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU)
+[Nickelback - How You Remind Me](https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf)|[Yoste - I only go south](https://open.spotify.com/track/2nalwZyo0Ww9asX2IG7LmR)|[Yoste - Sink](https://open.spotify.com/track/0F4IrUNg7r7rXZ1Yb399Nm)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02699a422d25adc550dc5aa11c"/>|<img src="https://i.scdn.co/image/ab67616d00001e022f2eeee9b405f4d00428d84c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02f1a7e98c66e32bf63d0ac2dc"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02699a422d25adc550dc5aa11c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02519f527dca307bbb360c8151"/>|<img src="https://i.scdn.co/image/ab67616d00001e02519f527dca307bbb360c8151"/>
