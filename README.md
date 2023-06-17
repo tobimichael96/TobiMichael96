@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Ryan Harris - You Were Right](https://open.spotify.com/track/6ZDbbE1kqpKpunBCkeJgCk)|[Dennis Dies Das - FRISCH GEDUSCHT](https://open.spotify.com/track/3NAXGeb8vc4HxPPJAiWgR2)|[ArshiyaZi - Remittal](https://open.spotify.com/track/08y47AO5XuKWbMCsi43QSI)
+[Ryan Harris - You Were Right](https://open.spotify.com/track/6ZDbbE1kqpKpunBCkeJgCk)|[Avenue One - Meltdown - Extended Mix](https://open.spotify.com/track/5xOTASl1nYWa9s4PwggG7g)|[ArshiyaZi - Remittal](https://open.spotify.com/track/08y47AO5XuKWbMCsi43QSI)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02ed6adf11fba1b9e885b56ecc"/>|<img src="https://i.scdn.co/image/ab67616d00001e02126368379697613cada392f9"/>|<img src="https://i.scdn.co/image/ab67616d00001e029ab7a949f5b734c20520ca63"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02ed6adf11fba1b9e885b56ecc"/>|<img src="https://i.scdn.co/image/ab67616d00001e02f2fa1b28c1d62ea6fd8d713e"/>|<img src="https://i.scdn.co/image/ab67616d00001e029ab7a949f5b734c20520ca63"/>
