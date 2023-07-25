@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[TJ_beastboy - CLiFFHANGER](https://open.spotify.com/track/5VxhTi6OUdCx5J5p5BOxhE)|[TJ_beastboy - EMPTY THE CLiP](https://open.spotify.com/track/2zcujbHsQVDmsZi8I6Q0LP)|[Ryan Harris - Falling](https://open.spotify.com/track/1D2bwibwzhgdtd4XOEay8Y)
+[TJ_beastboy - CLiFFHANGER](https://open.spotify.com/track/5VxhTi6OUdCx5J5p5BOxhE)|[TJ_beastboy - EMPTY THE CLiP](https://open.spotify.com/track/2zcujbHsQVDmsZi8I6Q0LP)|[TJ_beastboy - LESSONS](https://open.spotify.com/track/2o8EsqXdNh4PzbyzdnMw7d)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02e1e12b30abe8f28fb0d259b4"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e1e12b30abe8f28fb0d259b4"/>|<img src="https://i.scdn.co/image/ab67616d00001e028b2c15749ae1935d236a32a6"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02e1e12b30abe8f28fb0d259b4"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e1e12b30abe8f28fb0d259b4"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e1e12b30abe8f28fb0d259b4"/>
