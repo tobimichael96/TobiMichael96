@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[MALIAN - Edda](https://open.spotify.com/track/6lwT3rAbt3URHwxDwdN8sn)|[Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)](https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk)|[Blaize Jenkins - Mid-Winter](https://open.spotify.com/track/74DAUiIOrytsL6gIgPFQSN)
+[MALIAN - Edda](https://open.spotify.com/track/6lwT3rAbt3URHwxDwdN8sn)|[Blaize Jenkins - Mid-Winter](https://open.spotify.com/track/74DAUiIOrytsL6gIgPFQSN)|[Dennis Dies Das - OBERKÖRPERFREI](https://open.spotify.com/track/2a0xg3zgQptaY6FKO3YYw3)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02856cf59553e0b5bb7a52acb9"/>|<img src="https://i.scdn.co/image/ab67616d00001e02be82673b5f79d9658ec0a9fd"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e1d2c2daefde4928299dfe78"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02856cf59553e0b5bb7a52acb9"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e1d2c2daefde4928299dfe78"/>|<img src="https://i.scdn.co/image/ab67616d00001e02324261bae5f7c3a9b00c3bd5"/>
