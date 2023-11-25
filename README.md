@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Offset - SAY MY GRACE (feat. Travis Scott)](https://open.spotify.com/track/0ehWnMVmks5b25ZjFkFSop)|[TH;EN - Lusail](https://open.spotify.com/track/4SUQfRfq15xycL99KgTKuZ)|[Schrotthagen - Die Reiterin](https://open.spotify.com/track/5RGrluH4r6ZO4UohRn3pTw)
+[Offset - SAY MY GRACE (feat. Travis Scott)](https://open.spotify.com/track/0ehWnMVmks5b25ZjFkFSop)|[Thodoris Triantafillou - The Sun the Stars](https://open.spotify.com/track/5XbMClEUf80e15gpoiRCY9)|[Vakabular - Algorithms](https://open.spotify.com/track/7epMBxmmch0Knvmq0FWbGb)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0246e6e03db05d25f493b57656"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c1183ee1f523b64bd740abfb"/>|<img src="https://i.scdn.co/image/ab67616d00001e0261c08bca20bb62aaeedf24ed"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0246e6e03db05d25f493b57656"/>|<img src="https://i.scdn.co/image/ab67616d00001e0250dafbf9e61c238a722c99e6"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bf21d138a988a44fb7d0abb9"/>
