@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Adieu Aru - Phase](https://open.spotify.com/track/2kuvzhyv1eTsKPOs00CLnt)|[Ryan Harris - Rolling On](https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD)|[Milt0n - Creatures](https://open.spotify.com/track/7fv0qTmalrnNDgExDHzj4l)
+[Plusmacher - Ohne Ketchup](https://open.spotify.com/track/26iQlWeI9At3KOltyTxscm)|[Adieu Aru - Phase](https://open.spotify.com/track/2kuvzhyv1eTsKPOs00CLnt)|[Ryan Harris - Rolling On](https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e023447f6b77d6f76d13034735b"/>|<img src="https://i.scdn.co/image/ab67616d00001e025a0c300c766f6fb9d574e863"/>|<img src="https://i.scdn.co/image/ab67616d00001e027a0498668708bacdc1d63e83"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02563262bab2c33cfa71a5d2ee"/>|<img src="https://i.scdn.co/image/ab67616d00001e023447f6b77d6f76d13034735b"/>|<img src="https://i.scdn.co/image/ab67616d00001e025a0c300c766f6fb9d574e863"/>
