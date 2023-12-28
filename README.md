@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Plusmacher - Ohne Ketchup](https://open.spotify.com/track/26iQlWeI9At3KOltyTxscm)|[Hotel Pools - Crashing](https://open.spotify.com/track/39ftBEsQbxrtOOu98pOaHH)|[Wevpon - Twilight Traveller](https://open.spotify.com/track/4OSgb4ZNGMz2TexIFWgUTw)
+[Plusmacher - Ohne Ketchup](https://open.spotify.com/track/26iQlWeI9At3KOltyTxscm)|[Wevpon - Twilight Traveller](https://open.spotify.com/track/4OSgb4ZNGMz2TexIFWgUTw)|[Hotel Pools - Crashing](https://open.spotify.com/track/39ftBEsQbxrtOOu98pOaHH)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02563262bab2c33cfa71a5d2ee"/>|<img src="https://i.scdn.co/image/ab67616d00001e02af2163d6d2b8edad64f010e1"/>|<img src="https://i.scdn.co/image/ab67616d00001e02709be4c488b453fdbd996580"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02563262bab2c33cfa71a5d2ee"/>|<img src="https://i.scdn.co/image/ab67616d00001e02709be4c488b453fdbd996580"/>|<img src="https://i.scdn.co/image/ab67616d00001e02af2163d6d2b8edad64f010e1"/>
