@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Sung - Falling](https://open.spotify.com/track/3pFKdYf7XEowConVotO1tv)|[Yoste - I only go south](https://open.spotify.com/track/2nalwZyo0Ww9asX2IG7LmR)|[Yoste - Oslo](https://open.spotify.com/track/7rtznArwf8NwZ70DtQuDyr)
+[Sung - Falling](https://open.spotify.com/track/3pFKdYf7XEowConVotO1tv)|[Innellea - Downfall](https://open.spotify.com/track/08fB9YSYCxiIexuoQJc3Jj)|[Charlie Cunningham - So It Seems](https://open.spotify.com/track/3DZoAPlci0yuGYTNQ6TS3X)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02fdf4399760912cad2f295fda"/>|<img src="https://i.scdn.co/image/ab67616d00001e02519f527dca307bbb360c8151"/>|<img src="https://i.scdn.co/image/ab67616d00001e0214b037c4b98c00ffbbaf369b"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02fdf4399760912cad2f295fda"/>|<img src="https://i.scdn.co/image/ab67616d00001e020bef57b3e272a94c02a9078c"/>|<img src="https://i.scdn.co/image/ab67616d00001e020ba953d78dc6223b39fcb662"/>
