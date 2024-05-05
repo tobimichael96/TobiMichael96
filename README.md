@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Samy Deluxe - Blubb](https://open.spotify.com/track/7dh6oWgfM55OzR7CsQn6cZ)|[TJ_beastboy - GET RiCH & DiE CRYiNG](https://open.spotify.com/track/15aPBg5lOo4Y3iFvBg7yTP)|[Carlifornia - Moleque](https://open.spotify.com/track/731Ezexbe22F1hJ6R6Oc4u)
+[Samy Deluxe - Blubb](https://open.spotify.com/track/7dh6oWgfM55OzR7CsQn6cZ)|[TJ_beastboy - GET RiCH & DiE CRYiNG](https://open.spotify.com/track/15aPBg5lOo4Y3iFvBg7yTP)|[YUDI - Fast Car](https://open.spotify.com/track/6N8zJrr6R4cACAtbHiRVFO)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0291159909efd4363b89f87ed4"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a924f58cc8962b7603024793"/>|<img src="https://i.scdn.co/image/ab67616d00001e02828b8f09d7055982be08ea92"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0291159909efd4363b89f87ed4"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a924f58cc8962b7603024793"/>|<img src="https://i.scdn.co/image/ab67616d00001e0260bc5ac6d39588aa7a7171b8"/>
