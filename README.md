@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Samy Deluxe - Blubb](https://open.spotify.com/track/7dh6oWgfM55OzR7CsQn6cZ)|[TJ_beastboy - GET RiCH & DiE CRYiNG](https://open.spotify.com/track/15aPBg5lOo4Y3iFvBg7yTP)|[Plusmacher - Ohne Ketchup](https://open.spotify.com/track/26iQlWeI9At3KOltyTxscm)
+[TJ_beastboy - GET RiCH & DiE CRYiNG](https://open.spotify.com/track/15aPBg5lOo4Y3iFvBg7yTP)|[Hybrid Minds - Solitude](https://open.spotify.com/track/487Ump1JOYK3wSqB6KIOUd)|[Samy Deluxe - Blubb](https://open.spotify.com/track/7dh6oWgfM55OzR7CsQn6cZ)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0291159909efd4363b89f87ed4"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a924f58cc8962b7603024793"/>|<img src="https://i.scdn.co/image/ab67616d00001e02563262bab2c33cfa71a5d2ee"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02a924f58cc8962b7603024793"/>|<img src="https://i.scdn.co/image/ab67616d00001e02d67c3c9495718fce6ffc9a27"/>|<img src="https://i.scdn.co/image/ab67616d00001e0291159909efd4363b89f87ed4"/>
