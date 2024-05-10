@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Hybrid Minds - Solitude](https://open.spotify.com/track/487Ump1JOYK3wSqB6KIOUd)|[TJ_beastboy - GET RiCH & DiE CRYiNG](https://open.spotify.com/track/15aPBg5lOo4Y3iFvBg7yTP)|[Lithe - Pictures on My Wall](https://open.spotify.com/track/4PsrEpYJ1P9WAFI1VhRfAo)
+[Lithe - Pictures on My Wall](https://open.spotify.com/track/4PsrEpYJ1P9WAFI1VhRfAo)|[Hybrid Minds - Solitude](https://open.spotify.com/track/487Ump1JOYK3wSqB6KIOUd)|[Post Malone - Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02d67c3c9495718fce6ffc9a27"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a924f58cc8962b7603024793"/>|<img src="https://i.scdn.co/image/ab67616d00001e0205eb438dad0894eee2f7a31f"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0205eb438dad0894eee2f7a31f"/>|<img src="https://i.scdn.co/image/ab67616d00001e02d67c3c9495718fce6ffc9a27"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268"/>
