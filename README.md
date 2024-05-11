@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Lithe - Pictures on My Wall](https://open.spotify.com/track/4PsrEpYJ1P9WAFI1VhRfAo)|[Hybrid Minds - Solitude](https://open.spotify.com/track/487Ump1JOYK3wSqB6KIOUd)|[Post Malone - Better Now](https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK)
+[Lithe - Pictures on My Wall](https://open.spotify.com/track/4PsrEpYJ1P9WAFI1VhRfAo)|[Ali As - Von den fernen Bergen](https://open.spotify.com/track/5fd1GyTbdGkWK3klwlvRp3)|[Township Rebellion - Your Reality](https://open.spotify.com/track/03WkVgoN8FawuKHJPBk15Y)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0205eb438dad0894eee2f7a31f"/>|<img src="https://i.scdn.co/image/ab67616d00001e02d67c3c9495718fce6ffc9a27"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b1c4b76e23414c9f20242268"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0205eb438dad0894eee2f7a31f"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e907b8e9f0dad0063a9d6d05"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a32bc3279c2dd4161659bdb9"/>
