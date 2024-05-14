@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Lithe - Pictures on My Wall](https://open.spotify.com/track/4PsrEpYJ1P9WAFI1VhRfAo)|[Ali As - Von den fernen Bergen](https://open.spotify.com/track/5fd1GyTbdGkWK3klwlvRp3)|[Township Rebellion - Your Reality](https://open.spotify.com/track/03WkVgoN8FawuKHJPBk15Y)
+[Township Rebellion - Your Reality](https://open.spotify.com/track/03WkVgoN8FawuKHJPBk15Y)|[One-T - The Magic Key](https://open.spotify.com/track/1VsuSOEVhuCaybeb1rFeCM)|[Plusmacher - Ohne Ketchup](https://open.spotify.com/track/26iQlWeI9At3KOltyTxscm)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0205eb438dad0894eee2f7a31f"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e907b8e9f0dad0063a9d6d05"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a32bc3279c2dd4161659bdb9"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02a32bc3279c2dd4161659bdb9"/>|<img src="https://i.scdn.co/image/ab67616d00001e027a074c43eee70cb5dbe5cfeb"/>|<img src="https://i.scdn.co/image/ab67616d00001e02563262bab2c33cfa71a5d2ee"/>
