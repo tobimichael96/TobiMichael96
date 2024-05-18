@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Township Rebellion - Your Reality](https://open.spotify.com/track/03WkVgoN8FawuKHJPBk15Y)|[Plusmacher - Ohne Ketchup](https://open.spotify.com/track/26iQlWeI9At3KOltyTxscm)|[Alligatoah - Lungenflügel - Zugabe](https://open.spotify.com/track/2zpWbs6fq02ZMucEuBclwM)
+[K.I.Z - Boom Boom Boom](https://open.spotify.com/track/6Txevj8EVZJPKzmHwyY1Uh)|[K.I.Z - Danke Merkel](https://open.spotify.com/track/5PWgWtda5SjSzvauX6RWa1)|[Desiigner - Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02a32bc3279c2dd4161659bdb9"/>|<img src="https://i.scdn.co/image/ab67616d00001e02563262bab2c33cfa71a5d2ee"/>|<img src="https://i.scdn.co/image/ab67616d00001e02edcbd0d7ca71dacaf5729825"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02c2c842af17e86a3aea4ed34c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02490d7ca4dedfb0688848404a"/>|<img src="https://i.scdn.co/image/ab67616d00001e0235243e14634fea3e3cfe3121"/>
