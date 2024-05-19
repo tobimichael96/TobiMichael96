@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[K.I.Z - Boom Boom Boom](https://open.spotify.com/track/6Txevj8EVZJPKzmHwyY1Uh)|[emawk - 18](https://open.spotify.com/track/3aTZwNMCZrIXoLzHNCAjhB)|[K.I.Z - Danke Merkel](https://open.spotify.com/track/5PWgWtda5SjSzvauX6RWa1)
+[K.I.Z - Boom Boom Boom](https://open.spotify.com/track/6Txevj8EVZJPKzmHwyY1Uh)|[Alligatoah - Lungenflügel - Zugabe](https://open.spotify.com/track/2zpWbs6fq02ZMucEuBclwM)|[emawk - 18](https://open.spotify.com/track/3aTZwNMCZrIXoLzHNCAjhB)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02c2c842af17e86a3aea4ed34c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a08259240276ec157a7028c7"/>|<img src="https://i.scdn.co/image/ab67616d00001e02490d7ca4dedfb0688848404a"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02c2c842af17e86a3aea4ed34c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02edcbd0d7ca71dacaf5729825"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a08259240276ec157a7028c7"/>
