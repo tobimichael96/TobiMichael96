@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[K.I.Z - Boom Boom Boom](https://open.spotify.com/track/6Txevj8EVZJPKzmHwyY1Uh)|[emawk - 18](https://open.spotify.com/track/3aTZwNMCZrIXoLzHNCAjhB)|[DCVDNS - KIDS](https://open.spotify.com/track/5kiN2KbzqIs0o96tU2zXwM)
+[Ali As - Euphoria](https://open.spotify.com/track/7jQelqqyroo6OFr9X5YmEP)|[Sasha - One Who Knows](https://open.spotify.com/track/6aPHrqofy0wn3kScNXobGx)|[Last Haze - Afterglow](https://open.spotify.com/track/18NxLkmpzpR1fJ93DBrwXP)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02c2c842af17e86a3aea4ed34c"/>|<img src="https://i.scdn.co/image/ab67616d00001e02a08259240276ec157a7028c7"/>|<img src="https://i.scdn.co/image/ab67616d00001e02133e8428abb70109ea728a70"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02c45629c4757c7051b355d933"/>|<img src="https://i.scdn.co/image/ab67616d00001e022d942451fecec53b924f88cf"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e14a48354124acf72ef89c4a"/>
