@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Ali As - Euphoria](https://open.spotify.com/track/7jQelqqyroo6OFr9X5YmEP)|[Sasha - One Who Knows](https://open.spotify.com/track/6aPHrqofy0wn3kScNXobGx)|[Last Haze - Afterglow](https://open.spotify.com/track/18NxLkmpzpR1fJ93DBrwXP)
+[Andfølk - Rollin'](https://open.spotify.com/track/1QQrP9PWLPLYdJC3cTgALP)|[MALIAN - White Lies](https://open.spotify.com/track/4FuZknKZfVNdN9yjqbXKmm)|[Ali As - Euphoria](https://open.spotify.com/track/7jQelqqyroo6OFr9X5YmEP)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02c45629c4757c7051b355d933"/>|<img src="https://i.scdn.co/image/ab67616d00001e022d942451fecec53b924f88cf"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e14a48354124acf72ef89c4a"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0267f820c4025af681242a041d"/>|<img src="https://i.scdn.co/image/ab67616d00001e02bdbf757bad2eac8e85c05d0f"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c45629c4757c7051b355d933"/>
