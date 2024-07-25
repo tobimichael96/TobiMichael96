@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[MALIAN - Edda](https://open.spotify.com/track/6lwT3rAbt3URHwxDwdN8sn)|[Helsloot - Traverse](https://open.spotify.com/track/2B5hZGO9YCq295oiMRlXAn)|[MALIAN - Little Human - MALIAN Remix](https://open.spotify.com/track/0y6L1OiwEGR4Fs3lOLTwqa)
+[K.I.Z - Frieden](https://open.spotify.com/track/42nE4FVxDjMf30g3fp7vDF)|[YUDI - Fast Car](https://open.spotify.com/track/6N8zJrr6R4cACAtbHiRVFO)|[Yoste - Don't](https://open.spotify.com/track/6dH3TxJJ3lkdHvoqq8GN5o)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02856cf59553e0b5bb7a52acb9"/>|<img src="https://i.scdn.co/image/ab67616d00001e02c853b1d18ada778d4ae75baa"/>|<img src="https://i.scdn.co/image/ab67616d00001e0208bf0a32b9d646ce90f22169"/>
+<img src="https://i.scdn.co/image/ab67616d00001e024951ccb42defe891c4610bb0"/>|<img src="https://i.scdn.co/image/ab67616d00001e0260bc5ac6d39588aa7a7171b8"/>|<img src="https://i.scdn.co/image/ab67616d00001e0260e88faf89186dff4b6576ec"/>
