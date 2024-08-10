@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[K.I.Z - Frieden](https://open.spotify.com/track/42nE4FVxDjMf30g3fp7vDF)|[Kwabs - Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro)|[Natasha Bedingfield - Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf)
+[K.I.Z - Frieden](https://open.spotify.com/track/42nE4FVxDjMf30g3fp7vDF)|[Kwabs - Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro)|[Johnny Ola - Heat Love](https://open.spotify.com/track/7jurH5crGmrdHV6wdXOztd)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e024951ccb42defe891c4610bb0"/>|<img src="https://i.scdn.co/image/ab67616d00001e0201fb6f1b5a837eefa91aea4e"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b337e1ca6629a53c66a3b0d4"/>
+<img src="https://i.scdn.co/image/ab67616d00001e024951ccb42defe891c4610bb0"/>|<img src="https://i.scdn.co/image/ab67616d00001e0201fb6f1b5a837eefa91aea4e"/>|<img src="https://i.scdn.co/image/ab67616d00001e02aaea7c1632ea99eaec9d2bdb"/>
