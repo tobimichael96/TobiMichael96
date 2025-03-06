@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Camo & Krooked - Lies](https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus)|[Danny Byrd - JAM](https://open.spotify.com/track/7usuZAlc7XQhguMagrHA34)|[Joe Ford - Care for Me](https://open.spotify.com/track/1TfiPviUjNmFQ1S5FFPsrV)
+[MALIAN - Little Human - MALIAN Remix](https://open.spotify.com/track/0y6L1OiwEGR4Fs3lOLTwqa)|[MALIAN - Edda](https://open.spotify.com/track/6lwT3rAbt3URHwxDwdN8sn)|[Hollywood Undead - Levitate](https://open.spotify.com/track/0EZoTYqgrBBobhvMPgoSsI)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e029c28ae5af18850587dd7d241"/>|<img src="https://i.scdn.co/image/ab67616d00001e029b15fce6e18041e116ae381e"/>|<img src="https://i.scdn.co/image/ab67616d00001e02515023a3a4b55d5db87010e6"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0208bf0a32b9d646ce90f22169"/>|<img src="https://i.scdn.co/image/ab67616d00001e02856cf59553e0b5bb7a52acb9"/>|<img src="https://i.scdn.co/image/ab67616d00001e020540e8acdb2c6cc9c0c7dcd9"/>
