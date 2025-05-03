@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Post Malone - Die For Me (feat. Future & Halsey)](https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK)|[RIN - Athen (feat. Schmyt)](https://open.spotify.com/track/1YZGtX8kM8y03KVI5MQkhd)|[Lithe - Pictures on My Wall](https://open.spotify.com/track/4PsrEpYJ1P9WAFI1VhRfAo)
+[Post Malone - Die For Me (feat. Future & Halsey)](https://open.spotify.com/track/2C6WXnmZ66tHhHlnvwePiK)|[Murdock - Good Luv](https://open.spotify.com/track/7AdgjwadtJOQ2jI9KgLXDd)|[Red Hot Chili Peppers - Purple Stain](https://open.spotify.com/track/0tGkxA0oybkQ3iR6LLXPjZ)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02"/>|<img src="https://i.scdn.co/image/ab67616d00001e027b152c900b8ff83901ac800e"/>|<img src="https://i.scdn.co/image/ab67616d00001e0205eb438dad0894eee2f7a31f"/>
+<img src="https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02"/>|<img src="https://i.scdn.co/image/ab67616d00001e02508866f5b64195476286873d"/>|<img src="https://i.scdn.co/image/ab67616d00001e0294d08ab63e57b0cae74e8595"/>
