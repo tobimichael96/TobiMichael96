@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Wallners - Easy](https://open.spotify.com/track/64HY4jt9yI67KY8hEXucZi)|[Linkin Park - The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN)|[Red Hot Chili Peppers - Stadium Arcadium](https://open.spotify.com/track/4y84ILALZSa4LyP6H7NVjR)
+[Wallners - Easy](https://open.spotify.com/track/64HY4jt9yI67KY8hEXucZi)|[Charlie Cunningham - Shame I Know](https://open.spotify.com/track/3PEYu4hdk02Kj8v5qnHrUL)|[Linkin Park - The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e022cc7ff5743ad4c74479d9656"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>|<img src="https://i.scdn.co/image/ab67616d00001e0209fd83d32aee93dceba78517"/>
+<img src="https://i.scdn.co/image/ab67616d00001e022cc7ff5743ad4c74479d9656"/>|<img src="https://i.scdn.co/image/ab67616d00001e02793b89eaf5841005954e19dd"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>
