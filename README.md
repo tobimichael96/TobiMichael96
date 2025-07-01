@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Morgan Wallen - What I Want (feat. Tate McRae)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP)|[morten - Asfalto Bbys](https://open.spotify.com/track/72rH7RhomC4EHJ3rg675d2)|[Charli xcx - Girl, so confusing featuring lorde](https://open.spotify.com/track/7srqyRb5plksW5k65itXDB)
+[Morgan Wallen - What I Want (feat. Tate McRae)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP)|[Lugatti - VIER HÄNDE](https://open.spotify.com/track/3VvJRG9j9SMwDUnjSeU1ti)|[Wallners - All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0235ea219ce47813b5e2dc3745"/>|<img src="https://i.scdn.co/image/ab67616d00001e020c75a5656a3d4bc071ee8ea9"/>|<img src="https://i.scdn.co/image/ab67616d00001e0255a1e72ba425c60a02a9bb47"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0235ea219ce47813b5e2dc3745"/>|<img src="https://i.scdn.co/image/ab67616d00001e026c7251feda5d801343c5844a"/>|<img src="https://i.scdn.co/image/ab67616d00001e02e3c7245d47c187d3cab163e7"/>
