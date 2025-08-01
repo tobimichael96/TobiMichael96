@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Hollywood Undead - SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7)|[Morgan Wallen - What I Want (feat. Tate McRae)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP)|[Samy Deluxe - MikroDose](https://open.spotify.com/track/4HaUXBHDaZx184eAjEQ2uj)
+[Hollywood Undead - SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7)|[Samy Deluxe - MikroDose](https://open.spotify.com/track/4HaUXBHDaZx184eAjEQ2uj)|[morten - Crash Test Dummy](https://open.spotify.com/track/7a9ywVmsYIJPPg0ksyBFVu)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02807d7f425d68eb7d94493f93"/>|<img src="https://i.scdn.co/image/ab67616d00001e0235ea219ce47813b5e2dc3745"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db5f93e5ffdb4d603902f50"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02807d7f425d68eb7d94493f93"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db5f93e5ffdb4d603902f50"/>|<img src="https://i.scdn.co/image/ab67616d00001e02753651bc7bd88f3123ba31e5"/>
