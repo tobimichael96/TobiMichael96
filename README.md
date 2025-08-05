@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Hollywood Undead - SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7)|[Fred again.. - Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP)|[Samy Deluxe - MikroDose](https://open.spotify.com/track/4HaUXBHDaZx184eAjEQ2uj)
+[Hollywood Undead - SAVIOR](https://open.spotify.com/track/2vzJUdxQx6cp9VbtqkjPm7)|[Fred again.. - Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP)|[Sammy Virji - Cops & Robbers](https://open.spotify.com/track/5pa2ZyJ3dIEmxRDW74msQi)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02807d7f425d68eb7d94493f93"/>|<img src="https://i.scdn.co/image/ab67616d00001e02ed96e511d87235ac3e767382"/>|<img src="https://i.scdn.co/image/ab67616d00001e029db5f93e5ffdb4d603902f50"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02807d7f425d68eb7d94493f93"/>|<img src="https://i.scdn.co/image/ab67616d00001e02ed96e511d87235ac3e767382"/>|<img src="https://i.scdn.co/image/ab67616d00001e02d2877b73fac2b3f1a19f1375"/>
