@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Linkin Park - Good Things Go](https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7)|[Linkin Park - The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN)|[Snow Patrol - Called Out In The Dark](https://open.spotify.com/track/4UrmmXStaqiT5sSC7QO6HK)
+[Linkin Park - The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN)|[Linkin Park - Good Things Go](https://open.spotify.com/track/6aCBjSb87RizdH8lVBIRW7)|[Linkin Park - Cut the Bridge](https://open.spotify.com/track/5mFZipkX1HZ4Idz5LOWpzq)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>|<img src="https://i.scdn.co/image/ab67616d00001e021580fe8779d8b622df5b932c"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>|<img src="https://i.scdn.co/image/ab67616d00001e02b11a5489e8cb11dd22b930a0"/>
