@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Milo Korbenski - Booksmart Hunny](https://open.spotify.com/track/6Y26cFvFKVBm8rKZCyT3gu)|[Joy Orbison - flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9)|[James Blake - Death of Love](https://open.spotify.com/track/0eXLacgidV4BAUBWYpRsdV)
+[Milo Korbenski - Booksmart Hunny](https://open.spotify.com/track/6Y26cFvFKVBm8rKZCyT3gu)|[James Blake - Death of Love](https://open.spotify.com/track/0eXLacgidV4BAUBWYpRsdV)|[Joy Orbison - flex fm (freddit) feat. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e02c69e2c1599c769af8fa5015a"/>|<img src="https://i.scdn.co/image/ab67616d00001e02eec105edd0a1345582ea275a"/>|<img src="https://i.scdn.co/image/ab67616d00001e02884dd01508605dca727d8993"/>
+<img src="https://i.scdn.co/image/ab67616d00001e02c69e2c1599c769af8fa5015a"/>|<img src="https://i.scdn.co/image/ab67616d00001e02884dd01508605dca727d8993"/>|<img src="https://i.scdn.co/image/ab67616d00001e02eec105edd0a1345582ea275a"/>
