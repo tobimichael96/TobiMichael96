@@ -8,6 +8,6 @@
 
 <h3 align="center">Spotify Top Tracks</h3>
 
-[Gorillaz - Cracker Island (feat. Thundercat)](https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF)|[AK - Momentum](https://open.spotify.com/track/0SNIYB93zQBORUqrtE1UDZ)|[Gorillaz - The Tired Influencer](https://open.spotify.com/track/1Wld681KIdy5ZosdDb5bfz)
+[Gorillaz - Cracker Island (feat. Thundercat)](https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF)|[Gorillaz - Baby Queen](https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ)|[Gorillaz - Silent Running (feat. Adeleye Omotayo)](https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1)
 :---:|:----:|:----:
-<img src="https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86"/>|<img src="https://i.scdn.co/image/ab67616d00001e0267fcf9d1b030672653393c0d"/>|<img src="https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86"/>
+<img src="https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86"/>|<img src="https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86"/>|<img src="https://i.scdn.co/image/ab67616d00001e0219707804f73dc50f7a29cd86"/>
